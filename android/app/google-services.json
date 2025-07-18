@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "158686991115",
+    "firebase_url": "https://beramalbaik-90b62-default-rtdb.firebaseio.com",
+    "project_id": "beramalbaik-90b62",
+    "storage_bucket": "beramalbaik-90b62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158686991115:android:8cad2b2e19d3c21dc5480e",
+        "android_client_info": {
+          "package_name": "com.example.beramalbaik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gpQON7sS6gR1CTf3S0le5WmjJN-KQ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
